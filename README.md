@@ -4,3 +4,6 @@ Week 1
 ---------
 * Project objective
 * Basic understanding of SCs
+
+Week 2
+---------
