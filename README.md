@@ -17,7 +17,6 @@ Week 2
 </div> 
 
 <p align="center">Symmetric buck-boost converter</p>
-
     By applying suitable duty cycles to two half-bridges to achieve the desired left and right voltage ratios, thereby controlling the current on both sides. <br>
 
 *  Controller parameters and requirements 
