@@ -12,5 +12,7 @@ Week 2
 ---------
 *  Supercapacitor controller <br>
 ![image](https://github.com/FURP-2023-2024/Junkai-Wang-WeeklyReport/assets/173127755/a37ff74f-55a5-40ea-abbb-b2519e626b5e) <br>
-symmetric buck-boost converter) <br>
+Symmetric buck-boost converter) <br>
+By applying suitable duty cycles to two half-bridges to achieve the desired left and right voltage ratios, thereby controlling the current on both sides. <br>
+
 *  Controller parameters and requirements 
