@@ -2,7 +2,7 @@ Junkai_Wang WeeklyReport
 ==========
 Week 1
 ---------
-* Project objective
+* Project objective<br> 
 The project aims to leverage supercapacitors as a technical support solution for electrical applications and project requirements, such as providing power supply in robomaster where the power demand exceeds 40W.
 * Basic understanding of SCs
 
