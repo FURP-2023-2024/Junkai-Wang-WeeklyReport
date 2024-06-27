@@ -13,7 +13,7 @@ Week 2
 *  Supercapacitor controller <br>
 
 <div align=center>
-![image](https://github.com/FURP-2023-2024/Junkai-Wang-WeeklyReport/assets/173127755/a37ff74f-55a5-40ea-abbb-b2519e626b5e)
+![image](https://github.com/FURP-2023-2024/Junkai-Wang-WeeklyReport/blob/main/Images/Buck-boost%20converter.png)
 </div> 
 
 <p align="center">Symmetric buck-boost converter</p>
