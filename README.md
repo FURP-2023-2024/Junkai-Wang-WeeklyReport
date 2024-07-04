@@ -19,4 +19,10 @@ Week 2
 <p align="center">Symmetric buck-boost converter</p>
 By applying suitable duty cycles to two half-bridges to achieve the desired left and right voltage ratios, thereby controlling the current on both sides. <br>
 
-*  Controller parameters and requirements 
+*  Controller parameters and requirements
+  
+Week 3
+---------
+*  Supercapacitor controller Model <br>
+First familiarize and study the existing architecture that combines lithium batteries with bidirectional DC/DC converters and supercapacitors in parallel with the DC bus. <br>
+Subsequently, this architecture will be modified to connect supercapacitors in series with bidirectional DC/DC converters, while directly paralleling the DC/DC converters with the lithium batteries to the DC bus.
