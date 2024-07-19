@@ -21,7 +21,7 @@ By applying suitable duty cycles to two half-bridges to achieve the desired left
 
 *  Controller parameters and requirements
   
-Week 3
+Week 3 - 5
 ---------
 *  Supercapacitor controller Model <br>
 First familiarize and study the existing architecture that combines lithium batteries with bidirectional DC/DC converters and supercapacitors in parallel with the DC bus. <br>
